@@ -10,7 +10,7 @@ class SentinelBackendApplicationTests {
 
     @Test
     void applicationStarts() {
-        assertTrue(true);
+        assertTrue(false);
     }
 
     @Test
