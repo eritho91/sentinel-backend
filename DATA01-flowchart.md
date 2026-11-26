@@ -1,4 +1,4 @@
-# Test av databasmodellen – punkt 2
+# Databasmodellens flöde
 
 Vi utgår från två fiktiva kundföretag, Vigil AB och Axiom AB, för att se hur modellen fungerar när två olika företag rapporterar incidenter.
 
